@@ -1,7 +1,4 @@
 
-SAMPATH SAMPATH <sampath.23cs133@sode-edu.in>
-2:43 PM (0 minutes ago)
-to me
 
 #include <stdio.h>
 #include <stdlib.h>
